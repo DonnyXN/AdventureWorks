@@ -1,0 +1,9 @@
+{
+	"name": "adf-databricks-dev-westus2-001",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb925a98-1d89-4b3d-9465-5668e4570028",
+		"tenantId": "3b800b8a-9992-444c-bd5e-f5c556b7bb0e"
+	}
+}
