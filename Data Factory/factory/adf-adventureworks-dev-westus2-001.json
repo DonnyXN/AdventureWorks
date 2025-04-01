@@ -1,0 +1,9 @@
+{
+	"name": "adf-adventureworks-dev-westus2-001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc04ef2e-ebdf-4bd1-8309-9c210aaca140",
+		"tenantId": "3b800b8a-9992-444c-bd5e-f5c556b7bb0e"
+	}
+}
