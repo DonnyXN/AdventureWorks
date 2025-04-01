@@ -1,0 +1,6 @@
+{
+	"name": "SelfHostIntegrationRunime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
