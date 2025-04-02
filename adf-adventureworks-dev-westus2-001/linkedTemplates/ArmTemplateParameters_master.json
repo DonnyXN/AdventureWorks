@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-adventureworks-dev-westus2-001"
+		},
+		"ls_AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"ls_AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://stgadventureworksdev001.dfs.core.windows.net/"
+		},
+		"ls_AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://keyv-adventureworks.vault.azure.net/"
+		},
+		"ls_SqlServerOnPrem_properties_typeProperties_server": {
+			"value": "DESKTOP-61SNRK9"
+		},
+		"ls_SqlServerOnPrem_properties_typeProperties_database": {
+			"value": "AdventureWorksLT2022"
+		},
+		"ls_SqlServerOnPrem_properties_typeProperties_userName": {
+			"value": "Donny2"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
