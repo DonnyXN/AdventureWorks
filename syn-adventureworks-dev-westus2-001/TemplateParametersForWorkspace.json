@@ -10,6 +10,12 @@
 		},
 		"syn-adventureworks-dev-westus2-001-WorkspaceDefaultStorage_properties_typeProperties_url": {
 			"value": "https://stgadventureworksdev001.dfs.core.windows.net"
+		},
+		"ls_AzureSqlDatabase_Gold_properties_typeProperties_server": {
+			"value": "syn-adventureworks-dev-westus2-001-ondemand.sql.azuresynapse.net"
+		},
+		"ls_AzureSqlDatabase_Gold_properties_typeProperties_database": {
+			"value": "db_gold"
 		}
 	}
 }
